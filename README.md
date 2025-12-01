@@ -1,4 +1,4 @@
-📘 **README.md — Depth from Focus Using Smartphone Video (with CNN Refinement)**
+## Depth from Focus Using Smartphone Video (with CNN Refinement)**
 
 ## 📌 Overview
 
